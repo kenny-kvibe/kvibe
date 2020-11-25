@@ -1,3 +1,3 @@
 # kvibe
 
-> URL: `kvibe.pro`
+> URL: [kvibe.pro](https://kvibe.pro "KVibe")
